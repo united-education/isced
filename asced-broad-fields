@@ -1,0 +1,74 @@
+[
+{
+   "code": "01",
+   "title": {
+      "en": "NATURAL AND PHYSICAL SCIENCES"
+   }
+},
+{
+   "code": "02",
+   "title": {
+      "en": "INFORMATION TECHNOLOGY"
+   }
+},
+ {
+   "code": "03",
+   "title": {
+      "en": "ENGINEERING AND RELATED TECHNOLOGIES"
+   }
+},
+{
+   "code": "04",
+   "title": {
+      "en": "ARCHITECTURE AND BUILDING"
+   }
+},
+{
+   "code": "05",
+   "title": {
+      "en": "AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES"
+   }
+},
+{
+   "code": "06",
+   "title": {
+      "en": "HEALTH"
+   }
+},
+{
+   "code": "07",
+   "title": {
+      "en": "EDUCATION"
+   }
+},
+{
+   "code": "08",
+   "title": {
+      "en": "MANAGEMENT AND COMMERCE"
+   }
+},
+{
+   "code": "09",
+   "title": {
+      "en": "SOCIETY AND CULTURE"
+   }
+},
+{
+   "code": "10",
+   "title": {
+      "en": "CREATIVE ARTS"
+   }
+},
+{
+   "code": "11",
+   "title": {
+      "en": "FOOD, HOSPITALITY AND PERSONAL SERVICES"
+   }
+},
+{
+   "code": "12",
+   "title": {
+      "en": "MIXED FIELD PROGRAMMES"
+   }
+}
+]
