@@ -1,0 +1,937 @@
+[{
+  "code":"00",
+  "title":{
+    "en": "Generic programmes and qualifications",
+    "pt": "Programas Genéricos e Certificações"
+  },
+  "items":[
+    {
+      "code":"001",
+      "title":{
+        "en": "Basic programmes and qualifications",
+        "pt": "Programas básicos e certificações"
+      },
+      "items":[
+        {
+          "code":"0011",
+          "title":{
+            "en": "Basic programmes and qualifications",
+            "pt": "Programas básicos e certificações"
+          }
+        }
+      ]
+    },
+    {
+      "code":"002",
+      "title":{
+        "en": "Literacy and numeracy",
+        "pt": "Alfabetização e aritmética"
+      },
+      "items":[
+        {
+          "code":"0021",
+          "title":{
+            "en": "Literacy and numeracy",
+            "pt": "Alfabetização e aritmética"
+          }
+        }
+      ]
+    },
+    {
+      "code":"003",
+      "title":{
+        "en": "Personal skills and development",
+        "pt": "Habilidades pessoais e desenvolvimento"
+      },
+      "items":[
+        {
+          "code":"0031",
+          "title":{
+            "en": "Personal skills and development",
+            "pt": "Habilidades pessoais e desenvolvimento"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"01",
+  "title":{
+    "en": "Education science",
+    "pt": "Educação"
+  },
+  "items":[
+    {
+      "code":"011",
+      "title":{
+        "en": "Education",
+        "pt": "Educação"
+      },
+      "items":[
+        {
+          "code":"0111",
+          "title":{
+            "en": "Education science",
+            "pt": "Ciência da educação"
+          }
+        },
+        {
+          "code":"0112",
+          "title":{
+            "en": "Training for pre-school teachers",
+            "pt": "Formação de professores de educação infantil"
+          }
+        },
+        {
+          "code":"0113",
+          "title":{
+            "en": "Teacher training without subject specialisation",
+            "pt": "Formação de professores sem especialização em disciplinas"
+          }
+        },
+        {
+          "code":"0114",
+          "title":{
+            "en": "Teacher training with subject specialisation",
+            "pt": "Formação de professores com especialização em disciplinas"
+          }
+        }
+      ]
+    },
+    {
+      "code":"018",
+      "title":{
+        "en": "",
+        "pt": "Programas interdisciplinares e certificações envolvendo educação"
+      },
+      "items":[
+        {
+          "code":"0118",
+          "title":{
+            "en": "",
+            "pt": "Programas interdisciplinares e certificações envolvendo educação"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"02",
+  "title":{
+    "en": "Arts and humanities",
+    "pt": "Artes e Humanidades"
+  },
+  "items":[
+    {
+      "code":"021",
+      "title":{
+        "en": "Arts",
+        "pt": "Artes"
+      },
+      "items":[
+        {
+          "code":"0211",
+          "title":{
+            "en": "Audio-visual techniques and media production",
+            "pt": "Técnicas audiovisuais e produção de mídia"
+          }
+        },
+        {
+          "code":"0212",
+          "title":{
+            "en": "Fashion, interior and industrial design",
+            "pt": "Moda, design de interiores e desenho industrial"
+          }
+        },
+        {
+          "code":"0213",
+          "title":{
+            "en": "Fine arts",
+            "pt": "Belas artes"
+          }
+        },
+        {
+          "code":"0214",
+          "title":{
+            "en": "Handicrafts",
+            "pt": "Artesanato"
+          }
+        },
+        {
+          "code":"0215",
+          "title":{
+            "en": "Music and performing arts",
+            "pt": "Música e artes cênicas"
+          }
+        }
+      ]
+    },
+    {
+      "code":"022",
+      "title":{
+        "en": "Humanities (except languages)",
+        "pt": "Humanidades (exceto línguas)"
+      },
+      "items":[
+        {
+          "code":"0221",
+          "title":{
+            "en": "Religion and theology",
+            "pt": "Religião e teologia"
+          }
+        },
+        {
+          "code":"0222",
+          "title":{
+            "en": "History and archaeology",
+            "pt": "História e arqueologia"
+          }
+        },
+        {
+          "code":"0223",
+          "title":{
+            "en": "Philosophy and ethics",
+            "pt": "Filosofia e ética"
+          }
+        }
+      ]
+    },
+    {
+      "code":"023",
+      "title":{
+        "en": "Languages",
+        "pt": "Línguas"
+      },
+      "items":[
+        {
+          "code":"0231",
+          "title":{
+            "en": "Language acquisition",
+            "pt": "Aquisição de linguagem"
+          }
+        },
+        {
+          "code":"0232",
+          "title":{
+            "en": "Literature and linguistics",
+            "pt": "Literatura e linguística"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"03",
+  "title":{
+    "en": "Social sciences, journalism and information",
+    "pt": "Ciências Sociais, Jornalismo e Informação"
+  },
+  "items":[
+    {
+      "code":"031",
+      "title":{
+        "en": "Social and behavioural sciences",
+        "pt": "Ciências sociais e comportamentais"
+      },
+      "items":[
+        {
+          "code":"0311",
+          "title":{
+            "en": "Economics",
+            "pt": "Economia"
+          }
+        },
+        {
+          "code":"0312",
+          "title":{
+            "en": "Political sciences and civics",
+            "pt": "Ciência política e educação cívica"
+          }
+        },
+        {
+          "code":"0313",
+          "title":{
+            "en": "Psychology",
+            "pt": "Psicologia"
+          }
+        },
+        {
+          "code":"0314",
+          "title":{
+            "en": "Sociology and cultural studies",
+            "pt": "Sociologia e estudos culturais"
+          }
+        }
+      ]
+    },
+    {
+      "code":"032",
+      "title":{
+        "en": "Journalism and information",
+        "pt": "Jornalismo e informação"
+      },
+      "items":[
+        {
+          "code":"0321",
+          "title":{
+            "en": "Journalism and reporting",
+            "pt": "ornalismo e reportagem"
+          }
+        },
+        {
+          "code":"0322",
+          "title":{
+            "en": "Library, information and archival studies",
+            "pt": "Biblioteconomia, informação e estudos arquivísticos"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"04",
+  "title":{
+    "en": "Business, administration and law",
+    "pt": "Negócios, Administração e Direito"
+  },
+  "items":[
+    {
+      "code":"041",
+      "title":{
+        "en": "Business and administration",
+        "pt": "Negócios e administração"
+      },
+      "items":[
+        {
+          "code":"0411",
+          "title":{
+            "en": "Accounting and taxation",
+            "pt": "Contabilidade e tributação"
+          }
+        },
+        {
+          "code":"0412",
+          "title":{
+            "en": "Finance, banking and insurance",
+            "pt": "Finanças, bancos e seguros"
+          }
+        },
+        {
+          "code":"0413",
+          "title":{
+            "en": "Management and administration",
+            "pt": "Gestão e administração"
+          }
+        },
+        {
+          "code":"0414",
+          "title":{
+            "en": "Marketing and advertising",
+            "pt": "Marketing e propaganda"
+          }
+        },
+        {
+          "code":"0415",
+          "title":{
+            "en": "Secretarial and office work",
+            "pt": "Secretariado e trabalhos de escritório"
+          }
+        },
+        {
+          "code":"0416",
+          "title":{
+            "en": "Wholesale and retail sales",
+            "pt": "Vendas no atacado e no varejo"
+          }
+        },
+        {
+          "code":"0417",
+          "title":{
+            "en": "Work skills",
+            "pt": "Competências profissionais"
+          }
+        }
+      ]
+    },
+    {
+      "code":"042",
+      "title":{
+        "en": "Law",
+        "pt": "Direito"
+      },
+      "items":[
+        {
+          "code":"0421",
+          "title":{
+            "en": "Law",
+            "pt": "Direito"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"05",
+  "title":{
+    "en": "Natural sciences, mathematics and statistics",
+    "pt": "Ciências Naturais, Matemática e Estatística"
+  },
+  "items":[
+    {
+      "code":"051",
+      "title":{
+        "en": "Biological and related sciences",
+        "pt": "Ciências biológicas e correlatas"
+      },
+      "items":[
+        {
+          "code":"0511",
+          "title":{
+            "en": "Biology",
+            "pt": "Biologia"
+          }
+        },
+        {
+          "code":"0512",
+          "title":{
+            "en": "Biochemistry",
+            "pt": "Bioquímica"
+          }
+        }
+      ]
+    },
+    {
+      "code":"052",
+      "title":{
+        "en": "Environment",
+        "pt": "Meio Ambiente",
+      },
+      "items":[
+        {
+          "code":"0521",
+          "title":{
+            "en": "Environmental sciences",
+            "pt": "Ciências ambientais"
+          }
+        },
+        {
+          "code":"0522",
+          "title":{
+            "en": "Natural environments and wildlife",
+            "pt": "Ambientes naturais e vida selvagem"
+          }
+        }
+      ]
+    },
+    {
+      "code":"053",
+      "title":{
+        "en": "Physical sciences",
+        "pt": "Ciências físicas"
+      },
+      "items":[
+        {
+          "code":"0531",
+          "title":{
+            "en": "Chemistry",
+            "pt": "Química"
+          }
+        },
+        {
+          "code":"0532",
+          "title":{
+            "en": "Earth sciences",
+            "pt": "Ciências da terra"
+          }
+        },
+        {
+          "code":"0533",
+          "title":{
+            "en": "Physics",
+            "pt": "Física"
+          }
+        }
+      ]
+    },
+    {
+      "code":"054",
+      "title":{
+        "en": "Mathematics and statistics",
+        "pt": "Matemática e estatística"
+      },
+      "items":[
+        {
+          "code":"0541",
+          "title":{
+            "en": "Mathematics",
+            "pt": "Matemática"
+          }
+        },
+        {
+          "code":"0542",
+          "title":{
+            "en": "Statistics",
+            "pt": "Estatística"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"06",
+  "title":{
+    "en": "Information and Communication Technologies (ICTs)",
+    "pt": "Tecnologias da Informação e Comunicação"
+  },
+  "items":[
+    {
+      "code":"061",
+      "title":{
+        "en": "Information and Communication Technologies (ICTs)",
+        "pt": "Tecnologias da Informação e Comunicação"
+      },
+      "items":[
+        {
+          "code":"0611",
+          "title":{
+            "en": "Computer use",
+            "pt": "Uso do computador"
+          }
+        },
+        {
+          "code":"0612",
+          "title":{
+            "en": "Database and network design and administration",
+            "pt": "Administração e modelagem de banco de dados e de redes"
+          }
+        },
+        {
+          "code":"0613",
+          "title":{
+            "en": "Software and applications development and analysis",
+            "pt": "Desenvolvimento e análise de software e aplicações"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"07",
+  "title":{
+    "en": "Engineering, manufacturing and construction",
+    "pt": "Engenharia, Produção e Construção"
+  },
+  "items":[
+    {
+      "code":"071",
+      "title":{
+        "en": "Engineering and engineering trades",
+        "pt": "Engenharia e profissões correlatas"
+      },
+      "items":[
+        {
+          "code":"0711",
+          "title":{
+            "en": "Chemical engineering and processes",
+            "pt": "Engenharia química e de processos"
+          }
+        },
+        {
+          "code":"0712",
+          "title":{
+            "en": "Environmental protection technology",
+            "pt": "Tecnologia de proteção ambiental"
+          }
+        },
+        {
+          "code":"0713",
+          "title":{
+            "en": "Electricity and energy",
+            "pt": "Eletricidade e energia"
+          }
+        },
+        {
+          "code":"0714",
+          "title":{
+            "en": "Electronics and automation",
+            "pt": "Eletrônica e automação"
+          }
+        },
+        {
+          "code":"0715",
+          "title":{
+            "en": "Mechanics and metal trades",
+            "pt": "Engenharia mecânica e metalurgia"
+          }
+        },
+        {
+          "code":"0716",
+          "title":{
+            "en": "Motor vehicles, ships and aircraft",
+            "pt": "Veículos a motor, construção naval e aeronáutica"
+          }
+        }
+      ]
+    },
+    {
+      "code":"072",
+      "title":{
+        "en": "Manufacturing and processing",
+        "pt": "Produção e processamento"
+      },
+      "items":[
+        {
+          "code":"0721",
+          "title":{
+            "en": "Food processing",
+            "pt": "Processamento de alimentos"
+          }
+        },
+        {
+          "code":"0722",
+          "title":{
+            "en": "Materials (glass, paper, plastic and wood)",
+            "pt": "Materiais (vidro, papel, plástico e madeira)"
+          }
+        },
+        {
+          "code":"0723",
+          "title":{
+            "en": "Textiles (clothes, footwear and leather)",
+            "pt": "Têxteis (vestuário, calçados e couro) "
+          }
+        },
+        {
+          "code":"0724",
+          "title":{
+            "en": "Mining and extraction",
+            "pt": "Mineração e extração"
+          }
+        }
+      ]
+    },
+    {
+      "code":"073",
+      "title":{
+        "en": "Architecture and construction",
+        "pt": "Arquitetura e construção"
+      },
+      "items":[
+        {
+          "code":"0731",
+          "title":{
+            "en": "Architecture and town planning",
+            "pt": "Arquitetura e urbanismo"
+          }
+        },
+        {
+          "code":"0732",
+          "title":{
+            "en": "Building and civil engineering",
+            "pt": "Engenharia civil e de construção"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"08",
+  "title":{
+    "en": "Agriculture, forestry, fisheries and veterinary",
+    "pt": "Agricultura, Recursos Florestais, Recursos Pesqueiros e Veterinária"
+  },
+  "items":[
+    {
+      "code":"081",
+      "title":{
+        "en": "Agriculture",
+        "pt": "Agricultura"
+      },
+      "items":[
+        {
+          "code":"0811",
+          "title":{
+            "en": "Crop and livestock production",
+            "pt": "Produção agrícola e pecuária"
+          }
+        },
+        {
+          "code":"0812",
+          "title":{
+            "en": "Horticulture",
+            "pt": "Horticultura"
+          }
+        }
+      ]
+    },
+    {
+      "code":"082",
+      "title":{
+        "en": "Forestry",
+        "pt": "Recursos florestais"
+      },
+      "items":[
+        {
+          "code":"0821",
+          "title":{
+            "en": "Forestry",
+            "pt": "Recursos florestais"
+          }
+        }
+      ]
+    },
+    {
+      "code":"083",
+      "title":{
+        "en": "Fisheries",
+        "pt": "Recursos pesqueiros"
+      },
+      "items":[
+        {
+          "code":"0831",
+          "title":{
+            "en": "Fisheries",
+            "pt": "Recursos pesqueiros"
+          }
+        }
+      ]
+    },
+    {
+      "code":"084",
+      "title":{
+        "en": "Veterinary",
+        "pt": "Veterinária"
+      },
+      "items":[
+        {
+          "code":"0841",
+          "title":{
+            "en": "Veterinary",
+            "pt": "Veterinária"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"09",
+  "title":{
+    "en": "Health and welfare",
+    "pt": "Saúde e Bem-Estar"
+  },
+  "items":[
+    {
+      "code":"091",
+      "title":{
+        "en": "Health",
+        "pt": "Saúde"
+      },
+      "items":[
+        {
+          "code":"0911",
+          "title":{
+            "en": "Dental studies",
+            "pt": "Odontologia"
+          }
+        },
+        {
+          "code":"0912",
+          "title":{
+            "en": "Medicine",
+            "pt": "Medicina"
+          }
+        },
+        {
+          "code":"0913",
+          "title":{
+            "en": "Nursing and midwifery",
+            "pt": "Enfermagem e obstetrícia"
+          }
+        },
+        {
+          "code":"0914",
+          "title":{
+            "en": "Medical diagnostic and treatment technology",
+            "pt": "Tecnologias de diagnóstico e tratamento médico"
+          }
+        },
+        {
+          "code":"0915",
+          "title":{
+            "en": "Therapy and rehabilitation",
+            "pt": "Terapia e reabilitação"
+          }
+        },
+        {
+          "code":"0916",
+          "title":{
+            "en": "Pharmacy",
+            "pt": "Farmácia"
+          }
+        },
+        {
+          "code":"0917",
+          "title":{
+            "en": "Traditional and complementary medicine and therapy",
+            "pt": "Medicina e terapia tradicional e complementar"
+          }
+        }
+      ]
+    },
+    {
+      "code":"092",
+      "title":{
+        "en": "Welfare",
+        "pt": "Bem-estar"
+      },
+      "items":[
+        {
+          "code":"0921",
+          "title":{
+            "en": "Care of the elderly and of disabled adults",
+            "pt": "Assistência a idosos e a deficientes "
+          }
+        },
+        {
+          "code":"0922",
+          "title":{
+            "en": "Child care and youth services",
+            "pt": "Assistência à infância e serviços para os jovens"
+          }
+        },
+        {
+          "code":"0923",
+          "title":{
+            "en": "Social work and counselling",
+            "pt": "Serviço social e orientação"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "code":"10",
+  "title":{
+    "en": "Services",
+    "pt": "Serviços"
+  },
+  "items":[
+    {
+      "code":"101",
+      "title":{
+        "en": "Personal services",
+        "pt": "Serviços pessoais"
+      },
+      "items":[
+        {
+          "code":"1011",
+          "title":{
+            "en": "Domestic services",
+            "pt": "Serviços domésticos"
+          }
+        },
+        {
+          "code":"1012",
+          "title":{
+            "en": "Hair and beauty services",
+            "pt": "Serviços de beleza"
+          }
+        },
+        {
+          "code":"1013",
+          "title":{
+            "en": "Hotel, restaurants and catering",
+            "pt": "Hotelaria, restaurantes e serviços de alimentação"
+          }
+        },
+        {
+          "code":"1014",
+          "title":{
+            "en": "Sports",
+            "pt": "Esportes"
+          }
+        },
+        {
+          "code":"1015",
+          "title":{
+            "en": "Travel, tourism and leisure",
+            "pt": "Viagens, turismo e lazer"
+          }
+        }
+      ]
+    },
+    {
+      "code":"102",
+      "title":{
+        "en": "Hygiene and occupational health services",
+        "pt": "Higiene e serviços de saúde ocupacional"
+      },
+      "items":[
+        {
+          "code":"1021",
+          "title":{
+            "en": "Community sanitation",
+            "pt": "Saneamento comunitário"
+          }
+        },
+        {
+          "code":"1022",
+          "title":{
+            "en": "Occupational health and safety",
+            "pt": "Saúde e segurança no trabalho"
+          }
+        }
+      ]
+    },
+    {
+      "code":"103",
+      "title":{
+        "en": "Security services",
+        "pt": "Serviços de segurança"
+      },
+      "items":[
+        {
+          "code":"1031",
+          "title":{
+            "en": "Military and defence",
+            "pt": "Setor militar e de defesa"
+          }
+        },
+        {
+          "code":"1032",
+          "title":{
+            "en": "Protection of persons and property",
+            "pt": "Proteção de pessoas e de propriedades"
+          }
+        }
+      ]
+    },
+    {
+      "code":"104",
+      "title":{
+        "en": "Transport services",
+        "pt": "Serviços de transporte"
+      },
+      "items":[
+        {
+          "code":"1041",
+          "title":{
+            "en": "Transport services",
+            "pt": "Serviços de transporte"
+          }
+        }
+      ]
+    }
+  ]
+}
+]
