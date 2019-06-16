@@ -1,40 +1,40 @@
 [{
-  'code':'01',
-  'title':'Arts and humanities',
+  "code":"01",
+  "title":"Arts and humanities",
 },
 {
-  'code':'02',
-  'title':'Generic programmes and qualifications',
+  "code":"02",
+  "title":"Generic programmes and qualifications",
 },
 {
-  'code':'03',
-  'title':'Social sciences, journalism and information',
+  "code":"03",
+  "title":"Social sciences, journalism and information",
 },
 {
-  'code':'04',
-  'title':'Business, administration and law',
+  "code":"04",
+  "title":"Business, administration and law",
 },
 {
-  'code':'05',
-  'title':'Natural sciences, mathematics and statistics',
+  "code":"05",
+  "title":"Natural sciences, mathematics and statistics",
 },
 {
-  'code':'06',
-  'title':'Information and Communication Technologies (ICTs)',
+  "code":"06",
+  "title":"Information and Communication Technologies (ICTs)",
 },
 {
-  'code':'07',
-  'title':'Engineering, manufacturing and construction',
+  "code":"07",
+  "title":"Engineering, manufacturing and construction",
 },
 {
-  'code':'08',
-  'title':'Agriculture, forestry, fisheries and veterinary',
+  "code":"08",
+  "title":"Agriculture, forestry, fisheries and veterinary",
 },
 {
-  'code':'09',
-  'title':'Health and welfare',
+  "code":"09",
+  "title":"Health and welfare",
 },
 {
-  'code':'10',
-  'title':'Services',
+  "code":"10",
+  "title":"Services",
 }]
